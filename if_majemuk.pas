@@ -1,4 +1,4 @@
-program iss;
+program if_majemuk;
 var 
 kelas : string;
 lama : integer;
