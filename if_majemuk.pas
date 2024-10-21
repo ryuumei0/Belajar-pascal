@@ -1,4 +1,5 @@
 program if_majemuk;
+uses crt;
 var 
 kelas : string;
 lama : integer;
